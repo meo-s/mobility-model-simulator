@@ -1,0 +1,33 @@
+{
+    "#config.label": {
+        "colours": {
+            "dark_bg": "#000000"
+        },
+        "misc": {
+            "text_horiz_alignment": "left"
+        }
+    },
+    "#config.#cvge-map-label": {
+        "colours": {
+            "normal_text": "#FFFF00"
+        }
+    },
+    "#config.#uav-label": {
+        "colours": {
+            "normal_text": "#FFFF00"
+        }
+    },
+    "#config.text_entry_line": {
+        "colours": {
+            "dark_bg": "#000000"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "2",
+            "padding": "10, 0"
+        }
+    },
+    "#config.button": {
+    }
+}

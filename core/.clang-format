@@ -1,0 +1,25 @@
+BasedOnStyle: Google
+
+AlignAfterOpenBracket : AlwaysBreak
+
+AllowShortBlocksOnASingleLine: Empty
+
+AllowShortFunctionsOnASingleLine: Empty
+
+AllowShortLoopsOnASingleLine: false
+
+AlwaysBreakTemplateDeclarations: Yes
+
+BreakConstructorInitializers: BeforeComma
+
+BreakInheritanceList: BeforeComma
+
+ColumnLimit: 120
+
+PointerAlignment: Left
+
+PackConstructorInitializers: Never
+
+PenaltyReturnTypeOnItsOwnLine: 4
+
+IndentCaseLabels: false
